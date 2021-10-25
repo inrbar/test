@@ -19,3 +19,7 @@ __hmm__
 ~~zzzzz~~
 
 **dunno**
+
+```sh
+funny
+```
